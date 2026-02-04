@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Akram Vignan</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <h1>Dada Bhagwan</h1>
+    <a href="index.html">← Back to Home</a>
+  </nav>
+</header>
+
+<section>
+  <h2>What is Akram Vignan?</h2>
+  <p>
+    Akram Vignan is a direct and step-less path to Self-Realization,
+    revealed by Param Pujya Dada Bhagwan. Unlike traditional gradual paths,
+    Akram Vignan allows an individual to experience the Self through grace.
+  </p>
+
+  <p>
+    Through the process of Gnan Vidhi, the seeker attains the awareness
+    of the pure Soul while continuing worldly life with balance and harmony.
+  </p>
+</section>
+
+</body>
+</html>
