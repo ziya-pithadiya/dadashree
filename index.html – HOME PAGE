@@ -1,0 +1,51 @@
+This is all about dadshree<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dada Bhagwan | Home</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <h1>Dada Bhagwan</h1>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="akram-vignan.html">Akram Vignan</a></li>
+      <li><a href="philosophy.html">Philosophy</a></li>
+      <li><a href="about-ziya.html">About Creator</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="hero">
+  <img src="images/dadashree.jpg" alt="Dada Bhagwan">
+  <h2>Param Pujya Dada Bhagwan</h2>
+  <p>A spiritual teacher who revealed the path of Akram Vignan.</p>
+</section>
+
+<section class="cards">
+  <a href="akram-vignan.html" class="card">
+    <h3>Akram Vignan</h3>
+    <p>The direct path to Self-Realization.</p>
+  </a>
+
+  <a href="gnana-vidhi.html" class="card">
+    <h3>Gnan Vidhi</h3>
+    <p>The scientific process of Self-Realization.</p>
+  </a>
+
+  <a href="philosophy.html" class="card">
+    <h3>Philosophy</h3>
+    <p>Adjustment, awareness, and inner peace.</p>
+  </a>
+</section>
+
+<footer>
+  © Spiritual Knowledge Website · Created by Ziya Pithadiya
+</footer>
+
+</body>
+</html>
