@@ -1,0 +1,25 @@
+body {
+  font-family: Inter, sans-serif;
+  margin: 0;
+  background: #fafafa;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+}
+
+.card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 16px;
+  text-decoration: none;
+  color: black;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.card:hover {
+  transform: translateY(-6px);
+}
